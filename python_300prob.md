@@ -36,6 +36,7 @@ for i in range(5):
 print(volatility)
 ```
 <br>
+ 
 - list(volatility)를 사용할 생각이었는데, int가 반복자로 사용될 수 없는 오류가 발생하게 되어서
 애초에 빈 리스트로 지정해 준다음, append를 사용해 요소들을 삽입해주었음.
 
