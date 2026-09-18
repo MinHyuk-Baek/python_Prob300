@@ -1,3 +1,5 @@
+# 파이썬 버전 3.11.16 / 아나콘다 가상환경 설정 후 실행 할 것 / gemini 확인
+
 import numpy as np
 import pandas as pd 
 from tensorflow.keras.layers import Dense, Dropout
